@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "603472973440",
+    "project_id": "settlnow-settl",
+    "storage_bucket": "settlnow-settl.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603472973440:android:9616c47bc1d95e1d3ca065",
+        "android_client_info": {
+          "package_name": "com.settlnow.settl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNu4K1lPbjGPZgdu2-1jAyWxQo8FSbD8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
